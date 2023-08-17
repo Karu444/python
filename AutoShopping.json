@@ -1,0 +1,55 @@
+{
+    "autostore": {
+        "autos": [
+            {
+                "marca": "Chevrolet",
+                "linea": "Beat",
+                "modelo": "2020",
+                "precio": "10000",
+                "equipamiento": [
+                    "Aire Acondicionado",
+                    "Vidrios El\u00e9ctricos 4 Puertas",
+                    "Rines de Lujo",
+                    "Luces Exploradoras"
+                ]
+            },
+            {
+                "marca": "Mazda",
+                "linea": "6",
+                "modelo": "2023",
+                "precio": "12000",
+                "equipamiento": "Full Equipo"
+            },
+            {
+                "marca": "Renault",
+                "linea": "Duster",
+                "modelo": "2022",
+                "precio": "9000",
+                "equipamiento": "Sin Equipamento Adicional"
+            },
+            {
+                "marca": "Chevrolet",
+                "linea": "Onix",
+                "modelo": "2023",
+                "precio": "12000",
+                "equipamiento": [
+                    "Aire Acondicionado",
+                    "Vidrios El\u00e9ctricos 4 Puertas",
+                    "Rines de Lujo",
+                    "Luces Exploradoras",
+                    "Sensores de Reversa",
+                    "C\u00e1mara 360\u00b0"
+                ]
+            },
+            {
+                "marca": "Renault",
+                "linea": "2002",
+                "modelo": "9",
+                "precio": "9000000",
+                "equipamiento": [
+                    "Equipo de sonido. Llanta de repuesto"
+                ]
+            }
+        ]
+    }
+}
